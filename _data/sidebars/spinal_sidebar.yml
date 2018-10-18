@@ -312,6 +312,10 @@ entries:
               url: /spinal/lib/bus/avalon/avalonmm/
               output: web
 
+            - title: Wishbone
+              url: /spinal/lib/bus/wishbone/wishbone/
+              output: web
+
           - title: Com
             output: web
             subfolderitems:

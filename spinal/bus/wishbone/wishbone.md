@@ -8,7 +8,10 @@ sidebar: spinal_sidebar
 permalink: /spinal/lib/bus/wishbone/wishbone/
 ---
 
-<script src="http://wavedrom.com/skins/default.js" type="text/javascript"></script>
+{% include wavedrom.html %}
+
+
+
 
 ## Introduction
 The (Wishbone)[] bus is an open standard for interconnecting IP cores toghether.
@@ -19,6 +22,8 @@ The wishbone supports:
 - optional tags
 
 ## Wishbone transactions
+
+
 ### Classic
 
 <script type="WaveDrom">
